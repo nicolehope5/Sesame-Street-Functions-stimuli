@@ -1,2 +1,2 @@
 # Sesame-Street-Functions-stimuli
-here is where I host stimuli for my CHS study
+this is my stimuli for study 4 (replication functions study)
